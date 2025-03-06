@@ -1,2 +1,0 @@
-# DataLibraryManagementSystem-
-C#, .NET,WPF
