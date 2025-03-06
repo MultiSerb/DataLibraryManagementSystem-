@@ -1,0 +1,39 @@
+Ep,1|Na Drini ćuprija|Ivo Andrić|Ep|true|Ikonice\Ikonica1.png|0`
+Kratka priča,2|Prokleta avlija|Ivo Andrić|Kratka priča|true|Ikonice\Ikonica4.png|0`
+Epski roman,3|Seobe|Milos Crnjanski|Epski roman|false|Ikonice\Ikonica2.png|1`
+Epska poema,4|Gorski vijenac|Petrovic Njegos|Epska poema|true|Ikonice\Ikonica5.png|0`
+Roman,5|Zlocin i kazna|Fjodor Dostojevski|Roman|true|Ikonice\Ikonica3.png|0`6|Besnilo|Borislav Pekic|Roman|true|Ikonice\Ikonica2.png|0`7|Koreni|Dobrica Cosic|Roman|true|Ikonice\Ikonica1.png|0`10|Deobe|Dobrica Cosic|Roman|true|Ikonice\Ikonica5.png|0`11|Majstor i Margarita|Mihail Bulgakov|Roman|true|Ikonice\Ikonica3.png|0`13|Lolita|Vladimir Nabokov|Roman|true|Ikonice\Ikonica2.png|0`14|Rat i mir|Lav Nikolajevic Tolstoj|Roman|true|Ikonice\Ikonica4.png|0`15|Veliki Getsbi|F. Scott Fitzgerald|Roman|true|Ikonice\Ikonica5.png|0`
+Zbirka priča,8|Alkohol|Milenko Jergovic|Zbirka priča|true|Ikonice\Ikonica4.png|0`
+Poezija,9|Sabrana dela|Desanka Maksimovic|Poezija|false|Ikonice\Ikonica3.png|1`
+Fantazija,12|Hari Poter i Kamen mudrosti|J.K. Rowling|Fantazija|true|Ikonice\Ikonica1.png|0`
+Ep,1|Na Drini ćuprija|Ivo Andrić|Ep|false|Ikonice\Ikonica1.png|1`
+Kratka priča,2|Prokleta avlija|Ivo Andrić|Kratka priča|true|Ikonice\Ikonica4.png|0`
+Epski roman,3|Seobe|Milos Crnjanski|Epski roman|false|Ikonice\Ikonica2.png|1`
+Epska poema,4|Gorski vijenac|Petrovic Njegos|Epska poema|true|Ikonice\Ikonica5.png|0`
+Roman,5|Zlocin i kazna|Fjodor Dostojevski|Roman|true|Ikonice\Ikonica3.png|0`6|Besnilo|Borislav Pekic|Roman|true|Ikonice\Ikonica2.png|0`7|Koreni|Dobrica Cosic|Roman|true|Ikonice\Ikonica1.png|0`10|Deobe|Dobrica Cosic|Roman|true|Ikonice\Ikonica5.png|0`11|Majstor i Margarita|Mihail Bulgakov|Roman|true|Ikonice\Ikonica3.png|0`13|Lolita|Vladimir Nabokov|Roman|true|Ikonice\Ikonica2.png|0`14|Rat i mir|Lav Nikolajevic Tolstoj|Roman|true|Ikonice\Ikonica4.png|0`15|Veliki Getsbi|F. Scott Fitzgerald|Roman|true|Ikonice\Ikonica5.png|0`
+Zbirka priča,8|Alkohol|Milenko Jergovic|Zbirka priča|true|Ikonice\Ikonica4.png|0`
+Poezija,9|Sabrana dela|Desanka Maksimovic|Poezija|false|Ikonice\Ikonica3.png|1`
+Fantazija,12|Hari Poter i Kamen mudrosti|J.K. Rowling|Fantazija|true|Ikonice\Ikonica1.png|0`
+Roman,3|Seobe|Milos Crnjanski|Epski roman|true|Ikonice\Ikonica2.png|0`5|Zlocin i kazna|Fjodor Dostojevski|Roman|true|Ikonice\Ikonica3.png|0`6|Besnilo|Borislav Pekic|Roman|true|Ikonice\Ikonica2.png|0`7|Koreni|Dobrica Cosic|Roman|true|Ikonice\Ikonica1.png|0`10|Deobe|Dobrica Cosic|Roman|true|Ikonice\Ikonica5.png|0`11|Majstor i Margarita|Mihail Bulgakov|Roman|true|Ikonice\Ikonica3.png|0`13|Lolita|Vladimir Nabokov|Roman|true|Ikonice\Ikonica2.png|0`14|Rat i mir|Lav Nikolajevic Tolstoj|Roman|true|Ikonice\Ikonica4.png|0`15|Veliki Getsbi|F. Scott Fitzgerald|Roman|true|Ikonice\Ikonica5.png|0`
+Ep,1|Na Drini ćuprija|Ivo Andrić|Ep|true|Ikonice\Ikonica1.png|1`
+Kratka priča,2|Prokleta avlija|Ivo Andrić|Kratka priča|true|Ikonice\Ikonica4.png|0`
+Poezija,9|Sabrana dela|Desanka Maksimovic|Poezija|false|Ikonice\Ikonica3.png|1`
+Fantazija,12|Hari Poter i Kamen mudrosti|J.K. Rowling|Fantazija|true|Ikonice\Ikonica1.png|1`
+Zbirka priča,8|Alkohol|Milenko Jergovic|Zbirka priča|false|Ikonice\Ikonica4.png|3`
+Epska poema,4|Gorski vijenac|Petrovic Njegos|Epska poema|false|Ikonice\Ikonica5.png|2`
+Ep,1|Na Drini ćuprija|Ivo Andrić|Ep|true|Ikonice\Ikonica1.png|1`
+Kratka priča,2|Prokleta avlija|Ivo Andrić|Kratka priča|true|Ikonice\Ikonica4.png|0`
+Epski roman,3|Seobe|Milos Crnjanski|Epski roman|true|Ikonice\Ikonica2.png|0`
+Epska poema,4|Gorski vijenac|Petrovic Njegos|Epska poema|false|Ikonice\Ikonica5.png|2`
+Roman,5|Zlocin i kazna|Fjodor Dostojevski|Roman|true|Ikonice\Ikonica3.png|0`6|Besnilo|Borislav Pekic|Roman|true|Ikonice\Ikonica2.png|0`7|Koreni|Dobrica Cosic|Roman|true|Ikonice\Ikonica1.png|0`10|Deobe|Dobrica Cosic|Roman|true|Ikonice\Ikonica5.png|0`11|Majstor i Margarita|Mihail Bulgakov|Roman|true|Ikonice\Ikonica3.png|0`13|Lolita|Vladimir Nabokov|Roman|true|Ikonice\Ikonica2.png|0`14|Rat i mir|Lav Nikolajevic Tolstoj|Roman|true|Ikonice\Ikonica4.png|0`15|Veliki Getsbi|F. Scott Fitzgerald|Roman|true|Ikonice\Ikonica5.png|0`
+Zbirka priča,8|Alkohol|Milenko Jergovic|Zbirka priča|false|Ikonice\Ikonica4.png|3`
+Poezija,9|Sabrana dela|Desanka Maksimovic|Poezija|false|Ikonice\Ikonica3.png|1`
+Fantazija,12|Hari Poter i Kamen mudrosti|J.K. Rowling|Fantazija|true|Ikonice\Ikonica1.png|1`
+Ep,1|Na Drini ćuprija|Ivo Andrić|Ep|true|Ikonice\Ikonica1.png|1`
+Kratka priča,2|Prokleta avlija|Ivo Andrić|Kratka priča|true|Ikonice\Ikonica4.png|0`
+Epski roman,3|Seobe|Milos Crnjanski|Epski roman|true|Ikonice\Ikonica2.png|0`
+Epska poema,4|Gorski vijenac|Petrovic Njegos|Epska poema|false|Ikonice\Ikonica5.png|3`
+Roman,5|Zlocin i kazna|Fjodor Dostojevski|Roman|true|Ikonice\Ikonica3.png|0`6|Besnilo|Borislav Pekic|Roman|true|Ikonice\Ikonica2.png|0`7|Koreni|Dobrica Cosic|Roman|true|Ikonice\Ikonica1.png|0`10|Deobe|Dobrica Cosic|Roman|true|Ikonice\Ikonica5.png|0`11|Majstor i Margarita|Mihail Bulgakov|Roman|true|Ikonice\Ikonica3.png|0`13|Lolita|Vladimir Nabokov|Roman|true|Ikonice\Ikonica2.png|0`14|Rat i mir|Lav Nikolajevic Tolstoj|Roman|true|Ikonice\Ikonica4.png|0`15|Veliki Getsbi|F. Scott Fitzgerald|Roman|true|Ikonice\Ikonica5.png|0`
+Zbirka priča,8|Alkohol|Milenko Jergovic|Zbirka priča|false|Ikonice\Ikonica4.png|3`
+Poezija,9|Sabrana dela|Desanka Maksimovic|Poezija|false|Ikonice\Ikonica3.png|1`
+Fantazija,12|Hari Poter i Kamen mudrosti|J.K. Rowling|Fantazija|true|Ikonice\Ikonica1.png|1`

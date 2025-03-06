@@ -1,0 +1,15 @@
+1|Na Drini ćuprija|Ivo Andrić|Ep|true|Ikonice\Ikonica1.png|1
+2|Prokleta avlija|Ivo Andrić|Kratka priča|true|Ikonice\Ikonica4.png|0
+3|Seobe|Milos Crnjanski|Epski roman|true|Ikonice\Ikonica2.png|0
+4|Gorski vijenac|Petrovic Njegos|Epska poema|false|Ikonice\Ikonica5.png|3
+5|Zlocin i kazna|Fjodor Dostojevski|Roman|true|Ikonice\Ikonica3.png|0
+6|Besnilo|Borislav Pekic|Roman|true|Ikonice\Ikonica2.png|0
+7|Koreni|Dobrica Cosic|Roman|true|Ikonice\Ikonica1.png|0
+8|Alkohol|Milenko Jergovic|Zbirka priča|false|Ikonice\Ikonica4.png|3
+9|Sabrana dela|Desanka Maksimovic|Poezija|false|Ikonice\Ikonica3.png|1
+10|Deobe|Dobrica Cosic|Roman|true|Ikonice\Ikonica5.png|0
+11|Majstor i Margarita|Mihail Bulgakov|Roman|true|Ikonice\Ikonica3.png|0
+12|Hari Poter i Kamen mudrosti|J.K. Rowling|Fantazija|true|Ikonice\Ikonica1.png|1
+13|Lolita|Vladimir Nabokov|Roman|true|Ikonice\Ikonica2.png|0
+14|Rat i mir|Lav Nikolajevic Tolstoj|Roman|true|Ikonice\Ikonica4.png|0
+15|Veliki Getsbi|F. Scott Fitzgerald|Roman|true|Ikonice\Ikonica5.png|0
